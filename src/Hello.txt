@@ -1,5 +1,1 @@
-Hi My name is Kranthi Kumar 
-Welcome to the world of it.
->> Learning the Git Branching.
->>Learning the merge conflicts
-
+Hello from main branch
